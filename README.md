@@ -1,7 +1,7 @@
 # Midea AC LAN
 [![hacs_badge](https://img.shields.io/badge/HACS-Default-orange.svg)](https://github.com/hacs/integration)
-[![Donate](https://img.shields.io/badge/donate-BuyMeCoffee-yellow.svg)](https://www.buymeacoffee.com/georgezhao2010)
-[![Stable](https://img.shields.io/github/v/release/georgezhao2010/midea_ac_lan)](https://github.com/georgezhao2010/midea_ac_lan/releases/latest)
+[![Donate](https://img.shields.io/badge/donate-BuyMeCoffee-yellow.svg)](https://www.buymeacoffee.com/HappyQuQu)
+[![Stable](https://img.shields.io/github/v/release/HappyQuQu/midea_ac_lan)](https://github.com/HappyQuQu/midea_ac_lan/releases/latest)
 
 English | [简体中文](README_hans.md)
 
@@ -65,7 +65,7 @@ And more.
 | FD   | Humidifier                 | [FD.md](doc/FD.md) |
 
 # Installation
-Search 'Midea AC LAN' in HACS and install, or copy all files in `custom_components/midea_ac_lan` from [Latest Release](https://github.com/georgezhao2010/midea_ac_lan/releases/latest) to your `/custom_components/midea_ac_lan` in Home Assistant manually. 
+Search 'Midea AC LAN' in HACS and install, or copy all files in `custom_components/midea_ac_lan` from [Latest Release](https://github.com/HappyQuQu/midea_ac_lan/releases/latest) to your `/custom_components/midea_ac_lan` in Home Assistant manually. 
 
 Restart Home Assistant.
 
@@ -146,4 +146,4 @@ logger:
 
 If you like this integration, why do not you support my works by buying me a coffee?
 
-[![Buy me a coffee](https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png)](https://www.buymeacoffee.com/georgezhao2010)
+[![Buy me a coffee](https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png)](https://www.buymeacoffee.com/HappyQuQu)

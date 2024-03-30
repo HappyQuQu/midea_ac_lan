@@ -1,7 +1,7 @@
 # Midea AC LAN
 [![hacs_badge](https://img.shields.io/badge/HACS-Default-orange.svg)](https://github.com/hacs/integration)
-[![Donate](https://img.shields.io/badge/donate-BuyMeCoffee-yellow.svg)](https://www.buymeacoffee.com/georgezhao2010)
-[![Stable](https://img.shields.io/github/v/release/georgezhao2010/midea_ac_lan)](https://github.com/georgezhao2010/midea_ac_lan/releases/latest)
+[![Donate](https://img.shields.io/badge/donate-BuyMeCoffee-yellow.svg)](https://www.buymeacoffee.com/HappyQuQu)
+[![Stable](https://img.shields.io/github/v/release/HappyQuQu/midea_ac_lan)](https://github.com/HappyQuQu/midea_ac_lan/releases/latest)
 
 [English](README.md) | 简体中文
 
@@ -65,7 +65,7 @@
 | FD | 加湿器               | [FD_hans.md](doc/FD_hans.md) |
 
 # 安装
-在HACS中搜索'Midea AC LAN'并安装, 或者从[Latest release](https://github.com/georgezhao2010/midea_ac_lan/releases/latest)下载最新的Release版本, 将其中的`custom_components/midea_ac_lan`放到你的Home Assistant的`custom_components/midea_ac_lan`中。
+在HACS中搜索'Midea AC LAN'并安装, 或者从[Latest release](https://github.com/HappyQuQu/midea_ac_lan/releases/latest)下载最新的Release版本, 将其中的`custom_components/midea_ac_lan`放到你的Home Assistant的`custom_components/midea_ac_lan`中。
 
 重启Home Assistant
 
